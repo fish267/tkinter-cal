@@ -11,7 +11,7 @@ A simple calculator using module tkinter
 	*每次输入完一个式子，必须清空后才可以输入下一个;
 	*没有添加菜单栏 ;
 	*添加按钮，没有使用循环语句，不符合Python习惯.
-
+＝
 	原图片：
 	![](https://raw.github.com/fish267/tkinter-cal/master/xiaomi.png)
 	<hr>
