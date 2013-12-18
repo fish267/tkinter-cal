@@ -14,5 +14,6 @@ A simple calculator using module tkinter
 图片如下:
 	小米图片：
 	![](https://raw.github.com/fish267/tkinter-cal/master/xiaomi.png)
+	<hr>
 	模仿后的：
 	![](https://raw.github.com/fish267/tkinter-cal/master/calculator.png)
