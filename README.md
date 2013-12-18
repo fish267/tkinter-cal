@@ -12,7 +12,6 @@ A simple calculator using module tkinter
 	*没有添加菜单栏 ;
 	*添加按钮，没有使用循环语句，不符合Python习惯.
 图片如下:
-=========
 	小米图片：
 	![](https://raw.github.com/fish267/tkinter-cal/master/xiaomi.png)
 	模仿后的：
